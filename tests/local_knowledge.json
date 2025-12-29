@@ -28,5 +28,17 @@
     "title": "Drosophila Melanogaster Genetics",
     "content": "Genetic sequencing data of the fruit fly (Drosophila). Focuses on hereditary traits and mutation patterns.",
     "metadata": {"year": 2020, "species": "Fruit Fly"}
+  },
+  {
+    "id": "6",
+    "title": "Genetic Risk Factors for Alzheimer's",
+    "content": "A study on the APOE4 gene variant and its correlation with late-onset Alzheimer's disease. Includes blood sample analysis.",
+    "metadata": {"year": 2019, "modality": "Genetics"}
+  },
+  {
+    "id": "7",
+    "title": "Mouse Visual Cortex Calcium Imaging",
+    "content": "Two-photon calcium imaging of neuronal activity in the mouse visual cortex during visual stimulation.",
+    "metadata": {"year": 2023, "species": "Mouse"}
   }
 ]
